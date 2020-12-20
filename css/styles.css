@@ -53,8 +53,6 @@ body {
   padding-left: 15px;
   padding-right: 15px;
   width: 1200px;
-
-  /* outline: 2px solid green; */
 }
 
 img {
@@ -229,7 +227,7 @@ img {
 
 /* Priority */
 
-.visually-heading {
+.visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
